@@ -74,7 +74,7 @@ base44 deploy
 
 ## Documentation
 
-See `skills/base44/rules/` for detailed guides:
+See `skills/base44-skill/rules/` for detailed guides:
 
 | Guide | Description |
 |-------|-------------|
@@ -95,7 +95,7 @@ base44-cli/
 │   ├── plugin.json               # Plugin manifest
 │   └── marketplace.json          # Marketplace catalog
 ├── skills/
-│   └── base44/
+│   └── base44-skill/
 │       ├── SKILL.md              # Main skill definition
 │       └── rules/                # Detailed guides
 │           ├── 01-project-setup.md

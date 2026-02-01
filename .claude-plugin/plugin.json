@@ -7,7 +7,7 @@
     "url": "https://github.com/assafneudorfer/base44-cli-skill"
   },
   "skills": [
-    "./skills/base44"
+    "./skills/base44-skill"
   ],
   "repository": "https://github.com/assafneudorfer/base44-cli-skill.git",
   "homepage": "https://github.com/assafneudorfer/base44-cli-skill",
