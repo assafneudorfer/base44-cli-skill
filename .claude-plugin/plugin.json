@@ -1,0 +1,26 @@
+{
+  "name": "base44-skill",
+  "description": "Complete guide for Base44 CLI and SDK - build full-stack apps with entities, serverless functions, AI agents, and site deployment",
+  "version": "1.0.0",
+  "author": {
+    "name": "Base44 Community",
+    "url": "https://github.com/assafneudorfer/base44-cli-skill"
+  },
+  "skills": [
+    "./skills/base44"
+  ],
+  "repository": "https://github.com/assafneudorfer/base44-cli-skill.git",
+  "homepage": "https://github.com/assafneudorfer/base44-cli-skill",
+  "license": "MIT",
+  "keywords": [
+    "base44",
+    "cli",
+    "sdk",
+    "entities",
+    "serverless",
+    "functions",
+    "ai-agents",
+    "deployment",
+    "full-stack"
+  ]
+}

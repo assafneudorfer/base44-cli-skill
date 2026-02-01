@@ -1,0 +1,39 @@
+{
+  "name": "base44-marketplace",
+  "description": "Official marketplace for Base44 CLI Skill - A Claude Code plugin for building full-stack apps with Base44",
+  "owner": {
+    "name": "Base44 Community",
+    "url": "https://github.com/assafneudorfer/base44-cli-skill"
+  },
+  "plugins": [
+    {
+      "name": "base44-skill",
+      "description": "Complete guide for Base44 CLI and SDK - build full-stack apps with entities, serverless functions, AI agents, and site deployment",
+      "version": "1.0.0",
+      "author": {
+        "name": "Base44 Community",
+        "url": "https://github.com/assafneudorfer/base44-cli-skill"
+      },
+      "source": {
+        "source": "github",
+        "repo": "assafneudorfer/base44-cli-skill"
+      },
+      "category": "development",
+      "tags": [
+        "base44",
+        "cli",
+        "sdk",
+        "entities",
+        "serverless",
+        "functions",
+        "ai-agents",
+        "deployment",
+        "full-stack"
+      ],
+      "license": "MIT",
+      "homepage": "https://github.com/assafneudorfer/base44-cli-skill",
+      "repository": "https://github.com/assafneudorfer/base44-cli-skill.git",
+      "strict": false
+    }
+  ]
+}
